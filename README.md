@@ -1,7 +1,7 @@
 # Droplet
 Bootstrap child theme for Drupal.
 
-This is a starter development theme using the [Bootstrap 3 SASS](https://github.com/twbs/bootstrap-sass) source code.
+This is a starter development theme using the [Bootstrap 3 SASS](https://github.com/twbs/bootstrap-sass) source code. To use this theme you must first download and install the [Drupal Bootstrap](https://www.drupal.org/project/bootstrap) parent theme.
 
 Includes:
 - bootstrap-sass
